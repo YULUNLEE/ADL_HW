@@ -16,4 +16,11 @@ conda install pytorch torchvision torchaudio cudatoolkit=10.1 -c pytorch
 conda install pandas
 conda install numpy
 ```
+## How to Run
+```
+activate <environment_name>
+cd /d<direction>
+python kaggle_submission.py
+```
+
 
