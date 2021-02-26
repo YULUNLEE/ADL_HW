@@ -17,6 +17,7 @@ conda install pandas
 conda install numpy
 ```
 ## How to Run
+open Anaconda Prompt(Anaconda3)
 ```
 activate <environment_name>
 cd /d<direction>
