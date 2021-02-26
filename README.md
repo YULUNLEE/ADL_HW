@@ -10,7 +10,6 @@ Python 3 dependencies:
 * pandas
 * numpy
 Run
-Run
 ```
 conda install pytorch torchvision torchaudio cudatoolkit=10.1 -c pytorch
 conda install pandas
