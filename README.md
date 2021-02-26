@@ -15,6 +15,10 @@ conda install pytorch torchvision torchaudio cudatoolkit=10.1 -c pytorch
 conda install pandas
 conda install numpy
 ```
+## Data download
+```
+bash download_data.sh
+```
 ## How to Run
 open Anaconda Prompt(Anaconda3)<br>
 Run the command below:
