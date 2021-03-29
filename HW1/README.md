@@ -1,4 +1,4 @@
-# Applid Deep Learning HW1
+# Applied Deep Learning HW1
 ## step 1: environment setup
 
 * pip install -r requirements.txt (The TA sample), but you have to delete the torch (cpu version) 
