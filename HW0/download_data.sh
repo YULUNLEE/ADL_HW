@@ -1,6 +1,6 @@
 mkdir -p data
 cd data
-wget https://uc69015c3d67a2f45e3df9589c7f.dl.dropboxusercontent.com/cd/0/get/BJpENbYjsy7MsvmgWj4f9tWK9MdHWF38hcLwt8SqfZusAW0uQarE2mf8wdkAcxTLUmP00VYNbyWKNLjMLGL-E21__2J9F1duM134cqOCvI5LmRgFbrgQQkoc2l4zJVySt1Y/file# -O dev.csv
-wget https://uc035745ecfdcd148263f2b65b8a.dl.dropboxusercontent.com/cd/0/get/BJoczGp68F18abzDILr4FIH3r_sDdF4DWssN4FBBpd640QItvXnO2aUwQlGR8e6stQSkxiGQZeEPWsmTkvEMKv25iBqlt4fYL4MjtQ8eKe5mxONX1UzAAWtt_iba-c2NLXM/file# -O test.csv
-wget https://uc683cf4d4ba209586a431a0a963.dl.dropboxusercontent.com/cd/0/get/BJrYuTRaPfdTrD3PXhSMk3HZPbRsubtRqkEZFmJd9ymPxUsDsCDU5ndNd2ZDKrFWzizrVzN9ApyKBaSWC6qm8cXDS5N4fadUjRnXwmHcjOo8W-2Q4yeObpclyC_MVn3F3Pk/file# -O train.csv
+wget https://uc0bcb0ec4d2407f04be66c507dd.dl.dropboxusercontent.com/cd/0/get/BJ5wI5MSh3IOgfwa1FK8vYOwJyDeBwXkmasuuiporG1zt6XxPl85New4mR-hh4MI-rdk8NO-XSK8rymdGikdwdvSp1OnCnIGPHbrZ29WPWaSutuXGW5Dqe7TamcxMYcBjm0/file# -O dev.csv
+wget https://uce1ed9fc5888b761637fbf059fc.dl.dropboxusercontent.com/cd/0/get/BJ5qs17gXNMBe_TO6E-eGFlJosl2j2zthu3p3celao0W_WMMbaGpAFfXHxUILmYlFbIaY7ZzSVtlgLgyd3YcJLiRkhBKQSialNJfv0mm-GjIM7TknL5ADD66incJHc1v6wE/file# -O test.csv
+wget https://ucc355d6aeeef6973183bb747bdf.dl.dropboxusercontent.com/cd/0/get/BJ6HReoc8j7Junq_wQBXlbLfq59OBC7pc-k4Ltiesy31U1HIMgkltCCcehtFDFmWN2TkEFNDYKOLK6qgd28osFPykckVi62r57WR_6L_9xtDfrH80yetQcw5Yd7crieI-lk/file# -O train.csv
 cd ..
