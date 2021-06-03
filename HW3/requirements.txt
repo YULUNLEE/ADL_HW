@@ -1,0 +1,9 @@
+datasets==1.6.2
+nltk==3.6.1
+jsonlines
+transformers == 4.5.0
+accelerate==0.3.0
+sentencepiece==0.1.95
+rouge-score
+tqdm
+protobuf
